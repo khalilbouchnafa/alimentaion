@@ -1,0 +1,1162 @@
+﻿ [
+        {
+            "Aliment-100g": "Agneau",
+            "Calories": "255",
+            "eau (gr)": "60",
+            "Protides (gr)": "19",
+            "Lipides (gr)": "20",
+            "Glucides (gr)": "1"
+        },
+        {
+            "Aliment-100g": "Bœuf",
+            "Calories": "165",
+            "eau (gr)": "70",
+            "Protides (gr)": "19",
+            "Lipides (gr)": "10",
+            "Glucides (gr)": "1"
+        },
+        {
+            "Aliment-100g": "Cheval",
+            "Calories": "110",
+            "eau (gr)": "75",
+            "Protides (gr)": "22",
+            "Lipides (gr)": "2",
+            "Glucides (gr)": "1"
+        },
+        {
+            "Aliment-100g": "Mouton",
+            "Calories": "170",
+            "eau (gr)": "70",
+            "Protides (gr)": "17",
+            "Lipides (gr)": "11",
+            "Glucides (gr)": "1"
+        },
+        {
+            "Aliment-100g": "Veau",
+            "Calories": "175",
+            "eau (gr)": "70",
+            "Protides (gr)": "18",
+            "Lipides (gr)": "11",
+            "Glucides (gr)": "1"
+        },
+        {
+            "Aliment-100g": "Chevreuil",
+            "Calories": "95",
+            "eau (gr)": "77",
+            "Protides (gr)": "20",
+            "Lipides (gr)": "2",
+            "Glucides (gr)": "1"
+        },
+        {
+            "Aliment-100g": "Lapin",
+            "Calories": "175",
+            "eau (gr)": "70",
+            "Protides (gr)": "22",
+            "Lipides (gr)": "7",
+            "Glucides (gr)": "1"
+        },
+        {
+            "Aliment-100g": "Poulet",
+            "Calories": "150",
+            "eau (gr)": "72",
+            "Protides (gr)": "21",
+            "Lipides (gr)": "7",
+            "Glucides (gr)": "0"
+        },
+        {
+            "Aliment-100g": "Cervelle (Mouton)",
+            "Calories": "120",
+            "eau (gr)": "75",
+            "Protides (gr)": "10",
+            "Lipides (gr)": "9",
+            "Glucides (gr)": "1"
+        },
+        {
+            "Aliment-100g": "Langue (Veau)",
+            "Calories": "200",
+            "eau (gr)": "68",
+            "Protides (gr)": "15",
+            "Lipides (gr)": "15",
+            "Glucides (gr)": "1"
+        },
+        {
+            "Aliment-100g": "Rillettes",
+            "Calories": "600",
+            "eau (gr)": "19",
+            "Protides (gr)": "22",
+            "Lipides (gr)": "58",
+            "Glucides (gr)": "1"
+        },
+        {
+            "Aliment-100g": "Triperie (foie, coeur, rognons)",
+            "Calories": "140",
+            "eau (gr)": "70",
+            "Protides (gr)": "20",
+            "Lipides (gr)": "5",
+            "Glucides (gr)": "5"
+        },
+        {
+            "Aliment-100g": "Lard",
+            "Calories": "780",
+            "eau (gr)": "8",
+            "Protides (gr)": "4",
+            "Lipides (gr)": "88",
+            "Glucides (gr)": "0"
+        },
+        {
+            "Aliment-100g": "Saindoux",
+            "Calories": "850",
+            "eau (gr)": "5",
+            "Protides (gr)": "1",
+            "Lipides (gr)": "94",
+            "Glucides (gr)": "0"
+        },
+        {
+            "Aliment-100g": "Brochet",
+            "Calories": "80",
+            "eau (gr)": "80",
+            "Protides (gr)": "19",
+            "Lipides (gr)": "1",
+            "Glucides (gr)": "0"
+        },
+        {
+            "Aliment-100g": "Cabillaud",
+            "Calories": "63",
+            "eau (gr)": "83",
+            "Protides (gr)": "15",
+            "Lipides (gr)": "1",
+            "Glucides (gr)": "1"
+        },
+        {
+            "Aliment-100g": "Caviar",
+            "Calories": "310",
+            "eau (gr)": "50",
+            "Protides (gr)": "32",
+            "Lipides (gr)": "20",
+            "Glucides (gr)": "7"
+        },
+        {
+            "Aliment-100g": "Hareng maquereau",
+            "Calories": "135",
+            "eau (gr)": "73",
+            "Protides (gr)": "19",
+            "Lipides (gr)": "7",
+            "Glucides (gr)": "1"
+        },
+        {
+            "Aliment-100g": "Huîtres – Moules",
+            "Calories": "76",
+            "eau (gr)": "81",
+            "Protides (gr)": "10",
+            "Lipides (gr)": "4",
+            "Glucides (gr)": "5"
+        },
+        {
+            "Aliment-100g": "Limande -sole",
+            "Calories": "73",
+            "eau (gr)": "82",
+            "Protides (gr)": "16",
+            "Lipides (gr)": "1",
+            "Glucides (gr)": "1"
+        },
+        {
+            "Aliment-100g": "Merlan",
+            "Calories": "69",
+            "eau (gr)": "82",
+            "Protides (gr)": "16",
+            "Lipides (gr)": "1",
+            "Glucides (gr)": "1"
+        },
+        {
+            "Aliment-100g": "Sardine",
+            "Calories": "107",
+            "eau (gr)": "76",
+            "Protides (gr)": "21",
+            "Lipides (gr)": "2",
+            "Glucides (gr)": "1"
+        },
+        {
+            "Aliment-100g": "Saumon frais",
+            "Calories": "200",
+            "eau (gr)": "66",
+            "Protides (gr)": "21",
+            "Lipides (gr)": "12",
+            "Glucides (gr)": "1"
+        },
+        {
+            "Aliment-100g": "Thon frais",
+            "Calories": "225",
+            "eau (gr)": "58",
+            "Protides (gr)": "27",
+            "Lipides (gr)": "13",
+            "Glucides (gr)": "1"
+        },
+        {
+            "Aliment-100g": "Thon en conserve",
+            "Calories": "217",
+            "eau (gr)": "58",
+            "Protides (gr)": "28",
+            "Lipides (gr)": "12",
+            "Glucides (gr)": "1"
+        },
+        {
+            "Aliment-100g": "Truite",
+            "Calories": "95",
+            "eau (gr)": "78",
+            "Protides (gr)": "19",
+            "Lipides (gr)": "2",
+            "Glucides (gr)": "0"
+        },
+        {
+            "Aliment-100g": "Camembert",
+            "Calories": "306",
+            "eau (gr)": "52",
+            "Protides (gr)": "20",
+            "Lipides (gr)": "27",
+            "Glucides (gr)": "1"
+        },
+        {
+            "Aliment-100g": "Chèvre frais",
+            "Calories": "330",
+            "eau (gr)": "36",
+            "Protides (gr)": "33",
+            "Lipides (gr)": "17",
+            "Glucides (gr)": "14"
+        },
+        {
+            "Aliment-100g": "Crème fraîche",
+            "Calories": "255",
+            "eau (gr)": "63",
+            "Protides (gr)": "4",
+            "Lipides (gr)": "28",
+            "Glucides (gr)": "4"
+        },
+        {
+            "Aliment-100g": "Emmenthal l",
+            "Calories": "330",
+            "eau (gr)": "35",
+            "Protides (gr)": "30",
+            "Lipides (gr)": "34",
+            "Glucides (gr)": "1"
+        },
+        {
+            "Aliment-100g": "Fromage blanc 0%",
+            "Calories": "40",
+            "eau (gr)": "85",
+            "Protides (gr)": "8",
+            "Lipides (gr)": "0",
+            "Glucides (gr)": "3"
+        },
+        {
+            "Aliment-100g": "Fromage blanc 20%",
+            "Calories": "70",
+            "eau (gr)": "80",
+            "Protides (gr)": "8",
+            "Lipides (gr)": "4",
+            "Glucides (gr)": "3"
+        },
+        {
+            "Aliment-100g": "Fromage blanc 40%",
+            "Calories": "110",
+            "eau (gr)": "80",
+            "Protides (gr)": "8",
+            "Lipides (gr)": "8",
+            "Glucides (gr)": "3"
+        },
+        {
+            "Aliment-100g": "Lait de vache écrémé",
+            "Calories": "36",
+            "eau (gr)": "90",
+            "Protides (gr)": "4",
+            "Lipides (gr)": "1",
+            "Glucides (gr)": "5"
+        },
+        {
+            "Aliment-100g": "Lait de vache entier",
+            "Calories": "67",
+            "eau (gr)": "88",
+            "Protides (gr)": "4",
+            "Lipides (gr)": "4",
+            "Glucides (gr)": "5"
+        },
+        {
+            "Aliment-100g": "Œuf entier",
+            "Calories": "160",
+            "eau (gr)": "74",
+            "Protides (gr)": "13",
+            "Lipides (gr)": "12",
+            "Glucides (gr)": "1"
+        },
+        {
+            "Aliment-100g": "Œuf (blanc d'œuf)",
+            "Calories": "48",
+            "eau (gr)": "88",
+            "Protides (gr)": "11",
+            "Lipides (gr)": "0",
+            "Glucides (gr)": "1"
+        },
+        {
+            "Aliment-100g": "Œuf (jaune d'œuf)",
+            "Calories": "355",
+            "eau (gr)": "51",
+            "Protides (gr)": "16",
+            "Lipides (gr)": "32",
+            "Glucides (gr)": "1"
+        },
+        {
+            "Aliment-100g": "Roquefort",
+            "Calories": "320",
+            "eau (gr)": "37",
+            "Protides (gr)": "25",
+            "Lipides (gr)": "36",
+            "Glucides (gr)": "2"
+        },
+        {
+            "Aliment-100g": "Yaourt",
+            "Calories": "10",
+            "eau (gr)": "87",
+            "Protides (gr)": "5",
+            "Lipides (gr)": "6",
+            "Glucides (gr)": "2"
+        },
+        {
+            "Aliment-100g": "Biscottes",
+            "Calories": "360",
+            "eau (gr)": "2",
+            "Protides (gr)": "12",
+            "Lipides (gr)": "5",
+            "Glucides (gr)": "80"
+        },
+        {
+            "Aliment-100g": "Biscuit sec",
+            "Calories": "410",
+            "eau (gr)": "7",
+            "Protides (gr)": "11",
+            "Lipides (gr)": "9",
+            "Glucides (gr)": "73"
+        },
+        {
+            "Aliment-100g": "Blé",
+            "Calories": "371",
+            "eau (gr)": "11",
+            "Protides (gr)": "27",
+            "Lipides (gr)": "9",
+            "Glucides (gr)": "53"
+        },
+        {
+            "Aliment-100g": "Farine",
+            "Calories": "347",
+            "eau (gr)": "1",
+            "Protides (gr)": "13",
+            "Lipides (gr)": "3",
+            "Glucides (gr)": "83"
+        },
+        {
+            "Aliment-100g": "Flocons d'avoine",
+            "Calories": "400",
+            "eau (gr)": "9",
+            "Protides (gr)": "14",
+            "Lipides (gr)": "7",
+            "Glucides (gr)": "70"
+        },
+        {
+            "Aliment-100g": "Mais",
+            "Calories": "353",
+            "eau (gr)": "16",
+            "Protides (gr)": "9",
+            "Lipides (gr)": "5",
+            "Glucides (gr)": "70"
+        },
+        {
+            "Aliment-100g": "Pain",
+            "Calories": "250",
+            "eau (gr)": "37",
+            "Protides (gr)": "7",
+            "Lipides (gr)": "1",
+            "Glucides (gr)": "53"
+        },
+        {
+            "Aliment-100g": "Pain de seigle",
+            "Calories": "240",
+            "eau (gr)": "37",
+            "Protides (gr)": "7",
+            "Lipides (gr)": "1",
+            "Glucides (gr)": "52"
+        },
+        {
+            "Aliment-100g": "Pain d’épices",
+            "Calories": "355",
+            "eau (gr)": "1",
+            "Protides (gr)": "9",
+            "Lipides (gr)": "4",
+            "Glucides (gr)": "72"
+        },
+        {
+            "Aliment-100g": "Pâtes alimentaires",
+            "Calories": "355",
+            "eau (gr)": "12",
+            "Protides (gr)": "12",
+            "Lipides (gr)": "2",
+            "Glucides (gr)": "74"
+        },
+        {
+            "Aliment-100g": "Riz blanc",
+            "Calories": "360",
+            "eau (gr)": "12",
+            "Protides (gr)": "5",
+            "Lipides (gr)": "1",
+            "Glucides (gr)": "82"
+        },
+        {
+            "Aliment-100g": "Fèves",
+            "Calories": "342",
+            "eau (gr)": "1",
+            "Protides (gr)": "28",
+            "Lipides (gr)": "3",
+            "Glucides (gr)": "68"
+        },
+        {
+            "Aliment-100g": "Haricots",
+            "Calories": "337",
+            "eau (gr)": "8",
+            "Protides (gr)": "24",
+            "Lipides (gr)": "3",
+            "Glucides (gr)": "65"
+        },
+        {
+            "Aliment-100g": "Lentilles",
+            "Calories": "327",
+            "eau (gr)": "10",
+            "Protides (gr)": "24",
+            "Lipides (gr)": "2",
+            "Glucides (gr)": "63"
+        },
+        {
+            "Aliment-100g": "Pois cassés",
+            "Calories": "351",
+            "eau (gr)": "10",
+            "Protides (gr)": "23",
+            "Lipides (gr)": "1",
+            "Glucides (gr)": "66"
+        },
+        {
+            "Aliment-100g": "Pois chiches",
+            "Calories": "360",
+            "eau (gr)": "1",
+            "Protides (gr)": "23",
+            "Lipides (gr)": "6",
+            "Glucides (gr)": "70"
+        },
+        {
+            "Aliment-100g": "Tapioca",
+            "Calories": "360",
+            "eau (gr)": "9",
+            "Protides (gr)": "0.5",
+            "Lipides (gr)": "0.5",
+            "Glucides (gr)": "90"
+        },
+        {
+            "Aliment-100g": "Artichaut",
+            "Calories": "64",
+            "eau (gr)": "82",
+            "Protides (gr)": "3",
+            "Lipides (gr)": "1",
+            "Glucides (gr)": "13"
+        },
+        {
+            "Aliment-100g": "Asperge",
+            "Calories": "21",
+            "eau (gr)": "94",
+            "Protides (gr)": "2",
+            "Lipides (gr)": "0",
+            "Glucides (gr)": "3"
+        },
+        {
+            "Aliment-100g": "Aubergine",
+            "Calories": "29",
+            "eau (gr)": "93",
+            "Protides (gr)": "2",
+            "Lipides (gr)": "0",
+            "Glucides (gr)": "5"
+        },
+        {
+            "Aliment-100g": "Betterave rouge",
+            "Calories": "45",
+            "eau (gr)": "82",
+            "Protides (gr)": "2",
+            "Lipides (gr)": "1",
+            "Glucides (gr)": "14"
+        },
+        {
+            "Aliment-100g": "Bettes",
+            "Calories": "33",
+            "eau (gr)": "90",
+            "Protides (gr)": "2",
+            "Lipides (gr)": "1",
+            "Glucides (gr)": "6"
+        },
+        {
+            "Aliment-100g": "Carottes",
+            "Calories": "45",
+            "eau (gr)": "88",
+            "Protides (gr)": "1",
+            "Lipides (gr)": "1",
+            "Glucides (gr)": "10"
+        },
+        {
+            "Aliment-100g": "Céleri rave",
+            "Calories": "45",
+            "eau (gr)": "88",
+            "Protides (gr)": "2",
+            "Lipides (gr)": "0",
+            "Glucides (gr)": "10"
+        },
+        {
+            "Aliment-100g": "Champignon de Paris",
+            "Calories": "43",
+            "eau (gr)": "88",
+            "Protides (gr)": "4",
+            "Lipides (gr)": "0",
+            "Glucides (gr)": "7"
+        },
+        {
+            "Aliment-100g": "Chou de Bruxelles",
+            "Calories": "55",
+            "eau (gr)": "85",
+            "Protides (gr)": "5",
+            "Lipides (gr)": "1",
+            "Glucides (gr)": "8"
+        },
+        {
+            "Aliment-100g": "Chou rouge",
+            "Calories": "38",
+            "eau (gr)": "90",
+            "Protides (gr)": "2",
+            "Lipides (gr)": "0",
+            "Glucides (gr)": "7"
+        },
+        {
+            "Aliment-100g": "Chou vert",
+            "Calories": "34",
+            "eau (gr)": "90",
+            "Protides (gr)": "2.5",
+            "Lipides (gr)": "0.5",
+            "Glucides (gr)": "6"
+        },
+        {
+            "Aliment-100g": "Choucroute crue",
+            "Calories": "29",
+            "eau (gr)": "91",
+            "Protides (gr)": "1.5",
+            "Lipides (gr)": "0.5",
+            "Glucides (gr)": "6"
+        },
+        {
+            "Aliment-100g": "Chou-fleur",
+            "Calories": "32",
+            "eau (gr)": "91",
+            "Protides (gr)": "2.5",
+            "Lipides (gr)": "0.5",
+            "Glucides (gr)": "5"
+        },
+        {
+            "Aliment-100g": "Citrouille",
+            "Calories": "38",
+            "eau (gr)": "90",
+            "Protides (gr)": "1",
+            "Lipides (gr)": "0",
+            "Glucides (gr)": "8"
+        },
+        {
+            "Aliment-100g": "Concombre (cornichon)",
+            "Calories": "13",
+            "eau (gr)": "95",
+            "Protides (gr)": "1",
+            "Lipides (gr)": "0",
+            "Glucides (gr)": "3"
+        },
+        {
+            "Aliment-100g": "Courgette",
+            "Calories": "15",
+            "eau (gr)": "95",
+            "Protides (gr)": "1",
+            "Lipides (gr)": "0",
+            "Glucides (gr)": "4"
+        },
+        {
+            "Aliment-100g": "Endive",
+            "Calories": "23",
+            "eau (gr)": "93",
+            "Protides (gr)": "2",
+            "Lipides (gr)": "0",
+            "Glucides (gr)": "4"
+        },
+        {
+            "Aliment-100g": "Epinard",
+            "Calories": "25",
+            "eau (gr)": "92",
+            "Protides (gr)": "2.5",
+            "Lipides (gr)": "0.5",
+            "Glucides (gr)": "4"
+        },
+        {
+            "Aliment-100g": "Haricot vert",
+            "Calories": "41",
+            "eau (gr)": "89",
+            "Protides (gr)": "2.5",
+            "Lipides (gr)": "0.5",
+            "Glucides (gr)": "8"
+        },
+        {
+            "Aliment-100g": "Haricots verts en conserve",
+            "Calories": "19",
+            "eau (gr)": "94",
+            "Protides (gr)": "1",
+            "Lipides (gr)": "0",
+            "Glucides (gr)": "4"
+        },
+        {
+            "Aliment-100g": "Navet",
+            "Calories": "28",
+            "eau (gr)": "90",
+            "Protides (gr)": "2",
+            "Lipides (gr)": "1",
+            "Glucides (gr)": "6"
+        },
+        {
+            "Aliment-100g": "Oignons",
+            "Calories": "48",
+            "eau (gr)": "87",
+            "Protides (gr)": "2",
+            "Lipides (gr)": "1",
+            "Glucides (gr)": "10"
+        },
+        {
+            "Aliment-100g": "Petits pois",
+            "Calories": "93",
+            "eau (gr)": "77",
+            "Protides (gr)": "6.5",
+            "Lipides (gr)": "0.5",
+            "Glucides (gr)": "16"
+        },
+        {
+            "Aliment-100g": "Petits pois en conserve",
+            "Calories": "55",
+            "eau (gr)": "84",
+            "Protides (gr)": "3.5",
+            "Lipides (gr)": "0.5",
+            "Glucides (gr)": "12"
+        },
+        {
+            "Aliment-100g": "Poireau",
+            "Calories": "43",
+            "eau (gr)": "88",
+            "Protides (gr)": "2.5",
+            "Lipides (gr)": "0.5",
+            "Glucides (gr)": "8"
+        },
+        {
+            "Aliment-100g": "Pois mange-tout",
+            "Calories": "57",
+            "eau (gr)": "84",
+            "Protides (gr)": "3.5",
+            "Lipides (gr)": "0.5",
+            "Glucides (gr)": "12"
+        },
+        {
+            "Aliment-100g": "Poivron",
+            "Calories": "36",
+            "eau (gr)": "90",
+            "Protides (gr)": "1.5",
+            "Lipides (gr)": "0.5",
+            "Glucides (gr)": "8"
+        },
+        {
+            "Aliment-100g": "Pomme de terre",
+            "Calories": "87",
+            "eau (gr)": "77",
+            "Protides (gr)": "2",
+            "Lipides (gr)": "0",
+            "Glucides (gr)": "21"
+        },
+        {
+            "Aliment-100g": "Rutabaga",
+            "Calories": "34",
+            "eau (gr)": "90",
+            "Protides (gr)": "1.5",
+            "Lipides (gr)": "0",
+            "Glucides (gr)": "8"
+        },
+        {
+            "Aliment-100g": "Salade (verte)",
+            "Calories": "21",
+            "eau (gr)": "94",
+            "Protides (gr)": "2",
+            "Lipides (gr)": "0.5",
+            "Glucides (gr)": "3"
+        },
+        {
+            "Aliment-100g": "Soja (pousses)",
+            "Calories": "55",
+            "eau (gr)": "72",
+            "Protides (gr)": "8",
+            "Lipides (gr)": "3",
+            "Glucides (gr)": "16"
+        },
+        {
+            "Aliment-100g": "Tomate",
+            "Calories": "22",
+            "eau (gr)": "94",
+            "Protides (gr)": "1",
+            "Lipides (gr)": "0",
+            "Glucides (gr)": "4"
+        },
+        {
+            "Aliment-100g": "Topinambour",
+            "Calories": "80",
+            "eau (gr)": "79",
+            "Protides (gr)": "2",
+            "Lipides (gr)": "0.2",
+            "Glucides (gr)": "17"
+        },
+        {
+            "Aliment-100g": "Truffe",
+            "Calories": "92",
+            "eau (gr)": "76",
+            "Protides (gr)": "9.5",
+            "Lipides (gr)": "0.5",
+            "Glucides (gr)": "13"
+        },
+        {
+            "Aliment-100g": "Abricot",
+            "Calories": "52",
+            "eau (gr)": "86",
+            "Protides (gr)": "1",
+            "Lipides (gr)": "0",
+            "Glucides (gr)": "12"
+        },
+        {
+            "Aliment-100g": "Ananas",
+            "Calories": "55",
+            "eau (gr)": "86",
+            "Protides (gr)": "0.5",
+            "Lipides (gr)": "0.5",
+            "Glucides (gr)": "13"
+        },
+        {
+            "Aliment-100g": "Ananas en boite",
+            "Calories": "114",
+            "eau (gr)": "75",
+            "Protides (gr)": "0.5",
+            "Lipides (gr)": "0.5",
+            "Glucides (gr)": "24"
+        },
+        {
+            "Aliment-100g": "Airelle",
+            "Calories": "68",
+            "eau (gr)": "83",
+            "Protides (gr)": "0.5",
+            "Lipides (gr)": "0.5",
+            "Glucides (gr)": "16"
+        },
+        {
+            "Aliment-100g": "Banane",
+            "Calories": "98",
+            "eau (gr)": "75",
+            "Protides (gr)": "1.5",
+            "Lipides (gr)": "0.5",
+            "Glucides (gr)": "23"
+        },
+        {
+            "Aliment-100g": "Brugnon",
+            "Calories": "65",
+            "eau (gr)": "83",
+            "Protides (gr)": "1",
+            "Lipides (gr)": "0",
+            "Glucides (gr)": "15"
+        },
+        {
+            "Aliment-100g": "Cassis",
+            "Calories": "60",
+            "eau (gr)": "84",
+            "Protides (gr)": "1",
+            "Lipides (gr)": "0",
+            "Glucides (gr)": "14"
+        },
+        {
+            "Aliment-100g": "Cerise",
+            "Calories": "77",
+            "eau (gr)": "80",
+            "Protides (gr)": "1.5",
+            "Lipides (gr)": "0.5",
+            "Glucides (gr)": "17"
+        },
+        {
+            "Aliment-100g": "Citron",
+            "Calories": "44",
+            "eau (gr)": "89",
+            "Protides (gr)": "1",
+            "Lipides (gr)": "0.5",
+            "Glucides (gr)": "9"
+        },
+        {
+            "Aliment-100g": "Figue",
+            "Calories": "90",
+            "eau (gr)": "78",
+            "Protides (gr)": "1.5",
+            "Lipides (gr)": "0.5",
+            "Glucides (gr)": "20"
+        },
+        {
+            "Aliment-100g": "Fraise",
+            "Calories": "40",
+            "eau (gr)": "90",
+            "Protides (gr)": "1",
+            "Lipides (gr)": "1",
+            "Glucides (gr)": "8"
+        },
+        {
+            "Aliment-100g": "Framboise",
+            "Calories": "65",
+            "eau (gr)": "85",
+            "Protides (gr)": "1",
+            "Lipides (gr)": "0",
+            "Glucides (gr)": "14"
+        },
+        {
+            "Aliment-100g": "Groseille",
+            "Calories": "48",
+            "eau (gr)": "85",
+            "Protides (gr)": "1",
+            "Lipides (gr)": "0.5",
+            "Glucides (gr)": "13"
+        },
+        {
+            "Aliment-100g": "Kiwi",
+            "Calories": "51",
+            "eau (gr)": "86",
+            "Protides (gr)": "1",
+            "Lipides (gr)": "0",
+            "Glucides (gr)": "13"
+        },
+        {
+            "Aliment-100g": "Mandarine",
+            "Calories": "44",
+            "eau (gr)": "88",
+            "Protides (gr)": "1",
+            "Lipides (gr)": "0",
+            "Glucides (gr)": "10"
+        },
+        {
+            "Aliment-100g": "Melon",
+            "Calories": "31",
+            "eau (gr)": "92",
+            "Protides (gr)": "1",
+            "Lipides (gr)": "0",
+            "Glucides (gr)": "6"
+        },
+        {
+            "Aliment-100g": "Mûre",
+            "Calories": "58",
+            "eau (gr)": "87",
+            "Protides (gr)": "1",
+            "Lipides (gr)": "1",
+            "Glucides (gr)": "11"
+        },
+        {
+            "Aliment-100g": "Nèfle",
+            "Calories": "97",
+            "eau (gr)": "77",
+            "Protides (gr)": "0.5",
+            "Lipides (gr)": "0.5",
+            "Glucides (gr)": "22"
+        },
+        {
+            "Aliment-100g": "Orange",
+            "Calories": "50",
+            "eau (gr)": "88",
+            "Protides (gr)": "0",
+            "Lipides (gr)": "0",
+            "Glucides (gr)": "12"
+        },
+        {
+            "Aliment-100g": "Pamplemousse",
+            "Calories": "40",
+            "eau (gr)": "90",
+            "Protides (gr)": "0",
+            "Lipides (gr)": "0",
+            "Glucides (gr)": "10"
+        },
+        {
+            "Aliment-100g": "Pastèque",
+            "Calories": "30",
+            "eau (gr)": "93",
+            "Protides (gr)": "0.5",
+            "Lipides (gr)": "0",
+            "Glucides (gr)": "6"
+        },
+        {
+            "Aliment-100g": "Pêche",
+            "Calories": "51",
+            "eau (gr)": "86",
+            "Protides (gr)": "0.5",
+            "Lipides (gr)": "0",
+            "Glucides (gr)": "13"
+        },
+        {
+            "Aliment-100g": "Pêche au sirop (conserve)",
+            "Calories": "113",
+            "eau (gr)": "80",
+            "Protides (gr)": "0.4",
+            "Lipides (gr)": "0",
+            "Glucides (gr)": "20"
+        },
+        {
+            "Aliment-100g": "Poire",
+            "Calories": "61",
+            "eau (gr)": "84",
+            "Protides (gr)": "0",
+            "Lipides (gr)": "0.5",
+            "Glucides (gr)": "15"
+        },
+        {
+            "Aliment-100g": "Pomme",
+            "Calories": "64",
+            "eau (gr)": "82",
+            "Protides (gr)": "0.5",
+            "Lipides (gr)": "0.5",
+            "Glucides (gr)": "16"
+        },
+        {
+            "Aliment-100g": "Prune",
+            "Calories": "56",
+            "eau (gr)": "85",
+            "Protides (gr)": "1",
+            "Lipides (gr)": "0",
+            "Glucides (gr)": "14"
+        },
+        {
+            "Aliment-100g": "Raisin",
+            "Calories": "74",
+            "eau (gr)": "80",
+            "Protides (gr)": "1",
+            "Lipides (gr)": "1",
+            "Glucides (gr)": "18"
+        },
+        {
+            "Aliment-100g": "Jus de fruit frais (raisin, orange)",
+            "Calories": "60 à 80",
+            "eau (gr)": "80",
+            "Protides (gr)": "0",
+            "Lipides (gr)": "0",
+            "Glucides (gr)": "15 à 20"
+        },
+        {
+            "Aliment-100g": "Abricot sec",
+            "Calories": "275",
+            "eau (gr)": "24",
+            "Protides (gr)": "6",
+            "Lipides (gr)": "1",
+            "Glucides (gr)": "68"
+        },
+        {
+            "Aliment-100g": "Amande sèche",
+            "Calories": "638",
+            "eau (gr)": "3",
+            "Protides (gr)": "15",
+            "Lipides (gr)": "50",
+            "Glucides (gr)": "32"
+        },
+        {
+            "Aliment-100g": "Cacahuète",
+            "Calories": "594",
+            "eau (gr)": "3",
+            "Protides (gr)": "27",
+            "Lipides (gr)": "46",
+            "Glucides (gr)": "24"
+        },
+        {
+            "Aliment-100g": "Cacao en poudre",
+            "Calories": "490",
+            "eau (gr)": "1",
+            "Protides (gr)": "21",
+            "Lipides (gr)": "30",
+            "Glucides (gr)": "48"
+        },
+        {
+            "Aliment-100g": "Châtaigne",
+            "Calories": "200",
+            "eau (gr)": "45",
+            "Protides (gr)": "5",
+            "Lipides (gr)": "4",
+            "Glucides (gr)": "46"
+        },
+        {
+            "Aliment-100g": "Datte",
+            "Calories": "310",
+            "eau (gr)": "22",
+            "Protides (gr)": "2",
+            "Lipides (gr)": "0.5",
+            "Glucides (gr)": "75"
+        },
+        {
+            "Aliment-100g": "Figue sèche",
+            "Calories": "318",
+            "eau (gr)": "16",
+            "Protides (gr)": "4",
+            "Lipides (gr)": "1",
+            "Glucides (gr)": "79"
+        },
+        {
+            "Aliment-100g": "Noisette",
+            "Calories": "656",
+            "eau (gr)": "8",
+            "Protides (gr)": "14",
+            "Lipides (gr)": "48",
+            "Glucides (gr)": "30"
+        },
+        {
+            "Aliment-100g": "Noix",
+            "Calories": "630",
+            "eau (gr)": "9",
+            "Protides (gr)": "14",
+            "Lipides (gr)": "60",
+            "Glucides (gr)": "17"
+        },
+        {
+            "Aliment-100g": "Noix de coco",
+            "Calories": "370",
+            "eau (gr)": "40",
+            "Protides (gr)": "4",
+            "Lipides (gr)": "40",
+            "Glucides (gr)": "15"
+        },
+        {
+            "Aliment-100g": "Pistache",
+            "Calories": "630",
+            "eau (gr)": "8",
+            "Protides (gr)": "13",
+            "Lipides (gr)": "61",
+            "Glucides (gr)": "28"
+        },
+        {
+            "Aliment-100g": "Pruneau",
+            "Calories": "295",
+            "eau (gr)": "25",
+            "Protides (gr)": "2",
+            "Lipides (gr)": "1",
+            "Glucides (gr)": "72"
+        },
+        {
+            "Aliment-100g": "Huile-olive",
+            "Calories": "900",
+            "eau (gr)": "0",
+            "Protides (gr)": "0",
+            "Lipides (gr)": "100",
+            "Glucides (gr)": "0"
+        },
+        {
+            "Aliment-100g": "Beurre",
+            "Calories": "760",
+            "eau (gr)": "14",
+            "Protides (gr)": "1",
+            "Lipides (gr)": "84",
+            "Glucides (gr)": "1"
+        },
+        {
+            "Aliment-100g": "Margarine",
+            "Calories": "752",
+            "eau (gr)": "16",
+            "Protides (gr)": "1",
+            "Lipides (gr)": "83",
+            "Glucides (gr)": "0"
+        },
+        {
+            "Aliment-100g": "Sucre morceaux",
+            "Calories": "395",
+            "eau (gr)": "1",
+            "Protides (gr)": "0.5",
+            "Lipides (gr)": "0",
+            "Glucides (gr)": "98.5"
+        },
+        {
+            "Aliment-100g": "Fructose",
+            "Calories": "400",
+            "eau (gr)": "1",
+            "Protides (gr)": "0.2",
+            "Lipides (gr)": "0",
+            "Glucides (gr)": "99"
+        },
+        {
+            "Aliment-100g": "Lactose",
+            "Calories": "397",
+            "eau (gr)": "1",
+            "Protides (gr)": "0",
+            "Lipides (gr)": "0",
+            "Glucides (gr)": "99"
+        },
+        {
+            "Aliment-100g": "Malt",
+            "Calories": "388",
+            "eau (gr)": "1",
+            "Protides (gr)": "7",
+            "Lipides (gr)": "1",
+            "Glucides (gr)": "91"
+        },
+        {
+            "Aliment-100g": "Chocolat (60% cacao)",
+            "Calories": "500",
+            "eau (gr)": "2",
+            "Protides (gr)": "7",
+            "Lipides (gr)": "24",
+            "Glucides (gr)": "67"
+        },
+        {
+            "Aliment-100g": "Confiture (chiffres moyens)",
+            "Calories": "290",
+            "eau (gr)": "28",
+            "Protides (gr)": "1",
+            "Lipides (gr)": "0",
+            "Glucides (gr)": "71"
+        },
+        {
+            "Aliment-100g": "Miel",
+            "Calories": "319",
+            "eau (gr)": "20",
+            "Protides (gr)": "0",
+            "Lipides (gr)": "0",
+            "Glucides (gr)": "80"
+        },
+        {
+            "Aliment-100g": "Café (chiffres moyens)",
+            "Calories": "4",
+            "eau (gr)": "0",
+            "Protides (gr)": "0.5",
+            "Lipides (gr)": "0.5",
+            "Glucides (gr)": "0.5"
+        },
+        {
+            "Aliment-100g": "Thé (chiffres moyens)",
+            "Calories": "1",
+            "eau (gr)": "0",
+            "Protides (gr)": "0.2",
+            "Lipides (gr)": "0.1",
+            "Glucides (gr)": "0"
+        },
+        {
+            "Aliment-100g": "Limonade",
+            "Calories": "47",
+            "eau (gr)": "0",
+            "Protides (gr)": "0",
+            "Lipides (gr)": "0",
+            "Glucides (gr)": "15"
+        },
+        {
+            "Aliment-100g": "Soda",
+            "Calories": "52",
+            "eau (gr)": "0",
+            "Protides (gr)": "0",
+            "Lipides (gr)": "0",
+            "Glucides (gr)": "26"
+        }
+    ]
